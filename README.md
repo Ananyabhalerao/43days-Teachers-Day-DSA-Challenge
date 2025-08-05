@@ -9,6 +9,7 @@ This repository contains my solutions to one Data Structures and Algorithms (DSA
 - **Language:** C++
 - **Duration:** 43 days
 - Problems cover various platforms (LeetCode, Codeforces, etc.)
+- Path chosen: https://teachers-day-vitb.vercel.app/ (beginners track)
 
 ## 📂 Repo Structure
 
