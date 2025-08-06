@@ -13,7 +13,7 @@ int main(){
         }
     }
     sort (nums.begin(), nums.end());
-    for (int i = 0 ; i, nums.size(); i++){
+    for (int i = 0 ; i< nums.size(); i++){
         cout << nums[i];
         if (i< nums.size()-1) cout << "+";
     }
@@ -22,3 +22,4 @@ int main(){
 
 
 }
+
